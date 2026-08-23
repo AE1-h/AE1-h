@@ -1,8 +1,8 @@
 ## Detections that hold up
 
 Cybersecurity — **SOC and detection engineering** first, with binary exploitation
-and CTFs as a supporting edge. Focused on detections that hold up end to end: the
-rule logic, the alert triage, and the honest limitations.
+and CTFs as a supporting edge. Built and reasoned about end to end: the rule logic,
+the alert triage, and the honest limitations.
 
 ### What I work on
 
