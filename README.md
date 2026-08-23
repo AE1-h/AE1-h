@@ -1,4 +1,4 @@
-## SOC & Detection Engineering
+## Detections that hold up
 
 Cybersecurity — **SOC and detection engineering** first, with binary exploitation
 and CTFs as a supporting edge. Focused on detections that hold up end to end: the
