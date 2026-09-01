@@ -16,6 +16,5 @@ the alert triage, and the honest limitations.
 - [suricata-exfil-detection](https://github.com/AE1-h/suricata-exfil-detection) — encrypted-exfiltration detection, inline NFQUEUE prevention, ATT&CK mapping
 - [YaraRules0x100](https://github.com/AE1-h/YaraRules0x100) — documented, ATT&CK-mapped YARA rules
 - [void-htb-writeup](https://github.com/AE1-h/void-htb-writeup) — two-stage SROP exploit and write-up
-- [Rust-X-Nerd](https://github.com/AE1-h/Rust-X-Nerd) — multi-chain blockchain wallet CLI in Rust
 
 *Detections are leads, not verdicts — each project states what it does and doesn't prove.*
