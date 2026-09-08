@@ -14,6 +14,7 @@ the alert triage, and the honest limitations.
 ### Selected work
 
 - [suricata-exfil-detection](https://github.com/AE1-h/suricata-exfil-detection) — encrypted-exfiltration detection, inline NFQUEUE prevention, ATT&CK mapping
+- [iam-remediation-eval](https://github.com/AE1-h/iam-remediation-eval) — deterministic oracle for LLM-rewritten AWS/GCP IAM policies, graded on escalation and workload integrity
 - [YaraRules0x100](https://github.com/AE1-h/YaraRules0x100) — documented, ATT&CK-mapped YARA rules
 - [void-htb-writeup](https://github.com/AE1-h/void-htb-writeup) — two-stage SROP exploit and write-up
 
