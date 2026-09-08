@@ -8,6 +8,7 @@ the alert triage, and the honest limitations.
 
 - **Detection engineering** — Suricata IDS/IPS, YARA, EVE JSON triage, MITRE ATT&CK mapping
 - **Inline prevention** — NFQUEUE-based IPS with receiver-side proof of non-delivery
+- **AI output evaluation** — deterministic oracles for LLM-generated IAM policy, AWS/GCP least privilege, mutation-tested graders
 - **Binary exploitation** — ROP / SROP, stack pivots, exploit development with pwntools
 - **CTFs** — reverse engineering, pwn, crypto, and web
 
